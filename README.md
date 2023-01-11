@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+[Netlify link](https://iridescent-daffodil-aaef38.netlify.app/)
+
+<img width="608" alt="Ekran Resmi 2023-01-11 22 09 06" src="https://user-images.githubusercontent.com/69525712/211896395-b1c12e9e-345d-4668-ad0f-262f54b382cb.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
